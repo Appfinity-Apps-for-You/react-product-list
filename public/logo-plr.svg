@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FEFEFE" x="0" y="0" width="600" height="600"></rect>
+        <line x1="130.5" y1="160.5" x2="469.5" y2="160.5" id="Line" stroke="#6236FF" stroke-width="30" stroke-linecap="square" transform="translate(300, 160.5) rotate(45) translate(-300, -160.5)"></line>
+        <line x1="130.5" y1="300.209199" x2="469.5" y2="300.209199" id="Line" stroke="#6236FF" stroke-width="30" stroke-linecap="square" transform="translate(300, 300.2092) rotate(45) translate(-300, -300.2092)"></line>
+        <line x1="130.5" y1="439.918398" x2="469.5" y2="439.918398" id="Line" stroke="#6236FF" stroke-width="30" stroke-linecap="square" transform="translate(300, 439.9184) rotate(45) translate(-300, -439.9184)"></line>
+    </g>
+</svg>
